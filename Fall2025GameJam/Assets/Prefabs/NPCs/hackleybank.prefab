@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3285288023807360644
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3477710589911949183, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 35f16e13d1f99b8418a210a3341d10da, type: 2}
+    - target: {fileID: -299187008893344864, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: d831e4905d118444b825af322df58ca3, type: 2}
+    - target: {fileID: 919132149155446097, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: m_Name
+      value: hackleybank
+      objectReference: {fileID: 0}
+    - target: {fileID: 6345175797324881869, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 9e5ea5c315b3ab046a77aa5907db82bc, type: 2}
+    - target: {fileID: 6819722677127916303, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 625f8377ccf1c734f85eadda8a6fe225, type: 2}
+    - target: {fileID: 7986814019933463497, guid: e4f332fe6376251409e253e751325771, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 16022fbfdc8933244b67dd707037003b, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e4f332fe6376251409e253e751325771, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6758004325895131828}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: e4f332fe6376251409e253e751325771, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7665276000710687076}
+  m_SourcePrefab: {fileID: 100100000, guid: e4f332fe6376251409e253e751325771, type: 3}
+--- !u!1 &2402346993653171157 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e4f332fe6376251409e253e751325771, type: 3}
+  m_PrefabInstance: {fileID: 3285288023807360644}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6758004325895131828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2402346993653171157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fddae3314ddc4043862d3dcaaff8784, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  name: Hackley Banks
+  cubiclePos: {fileID: 6786874885194164524, guid: 8ebc70badeff9b34a85248e66a403aef, type: 3}
+  waterCoolerPos: {fileID: 475271250100417058, guid: 26d2326320615c34e8d7f246d716f483, type: 3}
+  ceoOfficeOutside: {fileID: 3910857924164960014, guid: ff134b39e5a79f7458a45dee57118ccf, type: 3}
+  depart: {fileID: 1281233270049613951, guid: 1b04901e68b33ee4e8c036de90ccc6e6, type: 3}
+  lunchTime: 0
+  Dialogue: {fileID: 0}
+--- !u!114 &7665276000710687076
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2402346993653171157}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03ca50f084460ac4c88b6a00834975fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allPathfindingTiles: []
+  destination: {x: 0, y: 0, z: 0}
+  movingTowardsTile: {fileID: 0}
+  speed: 0
